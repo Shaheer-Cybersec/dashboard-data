@@ -1,17 +1,5 @@
 {
-  "date": "2026-05-14",
-  "greeting": "Good morning! Here's your focus for today:",
-  "highPriorityTasks": [],
-  "todayContent": [],
-  "weekProgress": {
-    "commits": 0,
-    "aiProgress": 0,
-    "euleProgress": 0
-  },
-  "recommendations": [
-    "Commit streak is low this week - aim for 2-3 commits today",
-    "Light schedule today - great time to push AI Journey progress"
-  ],
+  "data": "{\n  \"date\": \"2026-05-14\",\n  \"greeting\": \"Good morning! Here's your focus for today:\",\n  \"highPriorityTasks\": [],\n  \"todayContent\": [],\n  \"weekProgress\": {\n    \"commits\": 0,\n    \"aiProgress\": 0,\n    \"euleProgress\": 0\n  },\n  \"recommendations\": [\n    \"Commit streak is low this week - aim for 2-3 commits today\",\n    \"Light schedule today - great time to push AI Journey progress\"\n  ]\n}",
   "morningBriefing": {
     "date": "2026-05-14",
     "greeting": "Good morning! Here's your focus for today:",
@@ -28,6 +16,6 @@
     ]
   },
   "meta": {
-    "lastUpdate": "2026-05-14T14:38:27.416Z"
+    "lastUpdate": "2026-05-14T14:39:19.349Z"
   }
 }
