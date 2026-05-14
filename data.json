@@ -1,6 +1,6 @@
 {
   "stats": {
-    "totalProjects": 12,
+    "totalProjects": 0,
     "completedTasks": 1,
     "hoursWorked": 4,
     "contentPieces": 0
@@ -9,7 +9,7 @@
     "commitStreak": 0,
     "todayCommits": 0,
     "weekCommits": 0,
-    "totalStars": 1
+    "totalStars": 0
   },
   "projects": {
     "ai-cybersecurity-journey": {
@@ -330,7 +330,7 @@
     ]
   },
   "meta": {
-    "lastUpdate": "2026-05-15T00:00:00.000Z",
+    "lastUpdate": "2026-05-14T21:59:49.170Z",
     "version": "1.0",
     "dashboardVersion": "beta",
     "journeyStartDate": "2026-05-15",
