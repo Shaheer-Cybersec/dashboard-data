@@ -1,171 +1,21 @@
 {
-  "stats": {
-    "totalProjects": 2,
-    "completedTasks": 0,
-    "hoursWorked": 0,
-    "contentPieces": 0
-  },
-  "github": {
-    "commitStreak": 0,
-    "todayCommits": 0,
-    "weekCommits": 0,
-    "totalStars": 0
-  },
-  "projects": {
-    "ai": {
-      "name": "AI Journey - 90-Day Roadmap",
-      "progress": 5,
-      "status": "In Progress",
-      "priority": "HIGH",
-      "lastUpdate": "2026-05-14"
-    },
-    "eule": {
-      "name": "EULE-IDPS - Intrusion Detection",
-      "progress": 0,
-      "status": "Planning",
-      "priority": "MEDIUM",
-      "lastUpdate": "2026-05-14"
-    }
-  },
-  "platforms": {
-    "linkedin": {
-      "followers": 0,
-      "postsThisWeek": 0,
-      "todayPosts": 0
-    },
-    "youtube": {
-      "subscribers": 0,
-      "videosThisWeek": 0,
-      "todayPosts": 0
-    },
-    "tiktok": {
-      "followers": 0,
-      "postsThisWeek": 0,
-      "todayPosts": 0
-    },
-    "instagram": {
-      "followers": 0,
-      "postsThisWeek": 0,
-      "todayPosts": 0
-    },
-    "twitter": {
-      "followers": 0,
-      "postsThisWeek": 0,
-      "todayPosts": 0
-    }
-  },
-  "revenue": {
-    "monthlyTarget": 1000,
-    "currentMonth": 0,
-    "lastMonth": 0,
-    "totalEarned": 0
-  },
-  "nextActions": [
-    {
-      "id": "task-001",
-      "title": "Complete Week 1 Security News Aggregator",
-      "project": "AI Journey",
-      "priority": "HIGH",
-      "estimatedTime": "4 hours",
-      "completed": false,
-      "dueDate": "2026-05-20"
-    },
-    {
-      "id": "task-002",
-      "title": "Write first LinkedIn post",
-      "project": "AI Journey",
-      "priority": "HIGH",
-      "estimatedTime": "1 hour",
-      "completed": false,
-      "dueDate": "2026-05-15"
-    },
-    {
-      "id": "task-003",
-      "title": "Set up n8n locally",
-      "project": "AI Journey",
-      "priority": "HIGH",
-      "estimatedTime": "2 hours",
-      "completed": true,
-      "completedAt": "2026-05-14"
-    }
-  ],
-  "contentCalendar": [
-    {
-      "date": "2026-05-15",
-      "platform": "LinkedIn",
-      "type": "Post",
-      "topic": "Why I'm learning AI automation as a cybersecurity professional",
-      "status": "Scheduled"
-    },
-    {
-      "date": "2026-05-15",
-      "platform": "Medium",
-      "type": "Article",
-      "topic": "Building an AI-Powered Security News Aggregator",
-      "status": "Draft"
-    }
-  ],
-  "workSessions": [
-    {
-      "date": "2026-05-14",
-      "hours": 4,
-      "tasks": ["Set up automation system", "Configure n8n workflows"],
-      "highlights": "Completed Phase 3 - All workflows active!"
-    }
-  ],
-  "dailyAchievements": [
-    {
-      "date": "2026-05-14",
-      "commits": 0,
-      "workHours": 4,
-      "tasksCompleted": 1,
-      "contentPieces": 0,
-      "aiProgress": 5,
-      "euleProgress": 0,
-      "highlights": [
-        "Deployed automation system",
-        "4 workflows active",
-        "Phase 3 complete"
-      ]
-    }
-  ],
+  "data": "{\r\n  \"stats\": {\r\n    \"totalProjects\": 2,\r\n    \"completedTasks\": 0,\r\n    \"hoursWorked\": 0,\r\n    \"contentPieces\": 0\r\n  },\r\n  \"github\": {\r\n    \"commitStreak\": 0,\r\n    \"todayCommits\": 0,\r\n    \"weekCommits\": 0,\r\n    \"totalStars\": 0\r\n  },\r\n  \"projects\": {\r\n    \"ai\": {\r\n      \"name\": \"AI Journey - 90-Day Roadmap\",\r\n      \"progress\": 5,\r\n      \"status\": \"In Progress\",\r\n      \"priority\": \"HIGH\",\r\n      \"lastUpdate\": \"2026-05-14\"\r\n    },\r\n    \"eule\": {\r\n      \"name\": \"EULE-IDPS - Intrusion Detection\",\r\n      \"progress\": 0,\r\n      \"status\": \"Planning\",\r\n      \"priority\": \"MEDIUM\",\r\n      \"lastUpdate\": \"2026-05-14\"\r\n    }\r\n  },\r\n  \"platforms\": {\r\n    \"linkedin\": {\r\n      \"followers\": 0,\r\n      \"postsThisWeek\": 0,\r\n      \"todayPosts\": 0\r\n    },\r\n    \"youtube\": {\r\n      \"subscribers\": 0,\r\n      \"videosThisWeek\": 0,\r\n      \"todayPosts\": 0\r\n    },\r\n    \"tiktok\": {\r\n      \"followers\": 0,\r\n      \"postsThisWeek\": 0,\r\n      \"todayPosts\": 0\r\n    },\r\n    \"instagram\": {\r\n      \"followers\": 0,\r\n      \"postsThisWeek\": 0,\r\n      \"todayPosts\": 0\r\n    },\r\n    \"twitter\": {\r\n      \"followers\": 0,\r\n      \"postsThisWeek\": 0,\r\n      \"todayPosts\": 0\r\n    }\r\n  },\r\n  \"revenue\": {\r\n    \"monthlyTarget\": 1000,\r\n    \"currentMonth\": 0,\r\n    \"lastMonth\": 0,\r\n    \"totalEarned\": 0\r\n  },\r\n  \"nextActions\": [\r\n    {\r\n      \"id\": \"task-001\",\r\n      \"title\": \"Complete Week 1 Security News Aggregator\",\r\n      \"project\": \"AI Journey\",\r\n      \"priority\": \"HIGH\",\r\n      \"estimatedTime\": \"4 hours\",\r\n      \"completed\": false,\r\n      \"dueDate\": \"2026-05-20\"\r\n    },\r\n    {\r\n      \"id\": \"task-002\",\r\n      \"title\": \"Write first LinkedIn post\",\r\n      \"project\": \"AI Journey\",\r\n      \"priority\": \"HIGH\",\r\n      \"estimatedTime\": \"1 hour\",\r\n      \"completed\": false,\r\n      \"dueDate\": \"2026-05-15\"\r\n    },\r\n    {\r\n      \"id\": \"task-003\",\r\n      \"title\": \"Set up n8n locally\",\r\n      \"project\": \"AI Journey\",\r\n      \"priority\": \"HIGH\",\r\n      \"estimatedTime\": \"2 hours\",\r\n      \"completed\": true,\r\n      \"completedAt\": \"2026-05-14\"\r\n    }\r\n  ],\r\n  \"contentCalendar\": [\r\n    {\r\n      \"date\": \"2026-05-15\",\r\n      \"platform\": \"LinkedIn\",\r\n      \"type\": \"Post\",\r\n      \"topic\": \"Why I'm learning AI automation as a cybersecurity professional\",\r\n      \"status\": \"Scheduled\"\r\n    },\r\n    {\r\n      \"date\": \"2026-05-15\",\r\n      \"platform\": \"Medium\",\r\n      \"type\": \"Article\",\r\n      \"topic\": \"Building an AI-Powered Security News Aggregator\",\r\n      \"status\": \"Draft\"\r\n    }\r\n  ],\r\n  \"workSessions\": [\r\n    {\r\n      \"date\": \"2026-05-14\",\r\n      \"hours\": 4,\r\n      \"tasks\": [\"Set up automation system\", \"Configure n8n workflows\"],\r\n      \"highlights\": \"Completed Phase 3 - All workflows active!\"\r\n    }\r\n  ],\r\n  \"dailyAchievements\": [\r\n    {\r\n      \"date\": \"2026-05-14\",\r\n      \"commits\": 0,\r\n      \"workHours\": 4,\r\n      \"tasksCompleted\": 1,\r\n      \"contentPieces\": 0,\r\n      \"aiProgress\": 5,\r\n      \"euleProgress\": 0,\r\n      \"highlights\": [\r\n        \"Deployed automation system\",\r\n        \"4 workflows active\",\r\n        \"Phase 3 complete\"\r\n      ]\r\n    }\r\n  ],\r\n  \"morningBriefing\": {\r\n    \"date\": \"2026-05-14\",\r\n    \"greeting\": \"Good morning! Here's your focus for today:\",\r\n    \"highPriorityTasks\": [\r\n      {\r\n        \"title\": \"Complete Week 1 Security News Aggregator\",\r\n        \"project\": \"AI Journey\",\r\n        \"estimatedTime\": \"4 hours\"\r\n      },\r\n      {\r\n        \"title\": \"Write first LinkedIn post\",\r\n        \"project\": \"AI Journey\",\r\n        \"estimatedTime\": \"1 hour\"\r\n      }\r\n    ],\r\n    \"todayContent\": [\r\n      {\r\n        \"platform\": \"LinkedIn\",\r\n        \"type\": \"Post\",\r\n        \"topic\": \"Why I'm learning AI automation as a cybersecurity professional\"\r\n      }\r\n    ],\r\n    \"weekProgress\": {\r\n      \"commits\": 0,\r\n      \"aiProgress\": 5,\r\n      \"euleProgress\": 0\r\n    },\r\n    \"recommendations\": [\r\n      \"You have 2 high-priority tasks - focus on top 3 today\",\r\n      \"Commit streak is low this week - aim for 2-3 commits today\",\r\n      \"1 content pieces scheduled - block time for creation\",\r\n      \"Light schedule today - great time to push AI Journey progress\"\r\n    ]\r\n  },\r\n  \"meta\": {\r\n    \"lastUpdate\": \"2026-05-14T14:39:19.349Z\",\r\n    \"version\": \"1.0\",\r\n    \"dashboardVersion\": \"beta\"\r\n  }\r\n}\r\n",
   "morningBriefing": {
     "date": "2026-05-14",
     "greeting": "Good morning! Here's your focus for today:",
-    "highPriorityTasks": [
-      {
-        "title": "Complete Week 1 Security News Aggregator",
-        "project": "AI Journey",
-        "estimatedTime": "4 hours"
-      },
-      {
-        "title": "Write first LinkedIn post",
-        "project": "AI Journey",
-        "estimatedTime": "1 hour"
-      }
-    ],
-    "todayContent": [
-      {
-        "platform": "LinkedIn",
-        "type": "Post",
-        "topic": "Why I'm learning AI automation as a cybersecurity professional"
-      }
-    ],
+    "highPriorityTasks": [],
+    "todayContent": [],
     "weekProgress": {
       "commits": 0,
-      "aiProgress": 5,
+      "aiProgress": 0,
       "euleProgress": 0
     },
     "recommendations": [
-      "You have 2 high-priority tasks - focus on top 3 today",
       "Commit streak is low this week - aim for 2-3 commits today",
-      "1 content pieces scheduled - block time for creation",
       "Light schedule today - great time to push AI Journey progress"
     ]
   },
   "meta": {
-    "lastUpdate": "2026-05-14T14:39:19.349Z",
-    "version": "1.0",
-    "dashboardVersion": "beta"
+    "lastUpdate": "2026-05-14T15:33:27.257Z"
   }
 }
