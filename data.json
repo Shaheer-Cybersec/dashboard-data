@@ -13,6 +13,37 @@
     }
   ],
   "meta": {
-    "lastUpdate": "2026-05-14T21:35:31.101Z"
+    "lastUpdate": "2026-05-14T21:39:12.846Z"
+  },
+  "nextActions": [],
+  "contentCalendar": [],
+  "github": {
+    "commitStreak": 0,
+    "weekCommits": 0
+  },
+  "stats": {
+    "completedTasks": 0,
+    "contentPieces": 0
+  },
+  "platforms": {
+    "linkedin": {
+      "postsThisWeek": 0
+    }
+  },
+  "morningBriefing": {
+    "date": "2026-05-14",
+    "greeting": "Good morning! Here's your focus for today:",
+    "highPriorityTasks": [],
+    "todayContent": [],
+    "weekProgress": {
+      "commits": 0,
+      "tasksCompleted": 0,
+      "contentPieces": 0
+    },
+    "recommendations": [
+      "Start your commit streak today!",
+      "Great job! All high-priority tasks complete",
+      "Post on LinkedIn today to hit your weekly goal"
+    ]
   }
 }
