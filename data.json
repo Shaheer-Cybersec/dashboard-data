@@ -13,17 +13,20 @@
     }
   ],
   "meta": {
-    "lastUpdate": "2026-05-14T21:39:12.846Z"
+    "lastUpdate": "2026-05-14T21:50:52.410Z"
   },
   "nextActions": [],
   "contentCalendar": [],
   "github": {
     "commitStreak": 0,
-    "weekCommits": 0
+    "weekCommits": 0,
+    "todayCommits": 0,
+    "totalStars": 0
   },
   "stats": {
     "completedTasks": 0,
-    "contentPieces": 0
+    "contentPieces": 0,
+    "totalProjects": 0
   },
   "platforms": {
     "linkedin": {
