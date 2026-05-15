@@ -321,7 +321,7 @@
     }
   ],
   "morningBriefing": {
-    "date": "2026-05-14",
+    "date": "2026-05-15",
     "greeting": "Good morning! Here's your focus for today:",
     "highPriorityTasks": [
       "Complete Security News Aggregator (n8n)",
@@ -341,7 +341,7 @@
     ]
   },
   "meta": {
-    "lastUpdate": "2026-05-14T22:00:48.317Z",
+    "lastUpdate": "2026-05-15T01:00:00.411Z",
     "version": "1.0",
     "dashboardVersion": "beta",
     "journeyStartDate": "2026-05-15",
