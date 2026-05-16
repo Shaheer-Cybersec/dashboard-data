@@ -331,14 +331,17 @@
     }
   ],
   "morningBriefing": {
-    "date": "2026-05-15",
+    "date": "2026-05-16",
     "greeting": "Good morning! Here's your focus for today:",
     "highPriorityTasks": [
       "Complete Security News Aggregator (n8n)",
       "Write first LinkedIn post - Journey announcement",
       "Write Medium article: Building AI-Powered Security News Aggregator"
     ],
-    "todayContent": [],
+    "todayContent": [
+      "LinkedIn: Why I'm learning AI automation as a cybersecurity professional",
+      "TikTok: 30-sec journey introduction"
+    ],
     "weekProgress": {
       "commits": 0,
       "tasksCompleted": 1,
@@ -351,7 +354,7 @@
     ]
   },
   "meta": {
-    "lastUpdate": "2026-05-15T22:00:07.195Z",
+    "lastUpdate": "2026-05-16T01:00:00.539Z",
     "version": "1.0",
     "dashboardVersion": "beta",
     "journeyStartDate": "2026-05-15",
